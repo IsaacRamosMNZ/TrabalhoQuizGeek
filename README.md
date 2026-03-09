@@ -142,4 +142,5 @@ Obs: cores mudam conforme o perfil final.
 - Perfil secreto pode aparecer com chance de 1%.
 
 ## Autor
-Projeto academico - Quiz de Personalidade Geek.
+Isaac De Menezes Ramos Turma 5B
+
