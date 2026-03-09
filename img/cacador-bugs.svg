@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 240" role="img" aria-label="Cacador de Bugs">
+  <defs>
+    <linearGradient id="g2" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#2a1f1f" />
+      <stop offset="100%" stop-color="#7a2f2f" />
+    </linearGradient>
+  </defs>
+  <rect width="420" height="240" rx="20" fill="url(#g2)" />
+  <circle cx="120" cy="120" r="52" fill="#f4c47a" />
+  <circle cx="120" cy="120" r="34" fill="none" stroke="#fff" stroke-width="8" />
+  <line x1="145" y1="145" x2="190" y2="190" stroke="#fff" stroke-width="10" stroke-linecap="round" />
+  <rect x="210" y="74" width="160" height="92" rx="10" fill="#1f1f29" stroke="#ff8f8f" stroke-width="4" />
+  <circle cx="250" cy="120" r="12" fill="#ff8f8f" />
+  <circle cx="290" cy="120" r="12" fill="#ff8f8f" />
+  <circle cx="330" cy="120" r="12" fill="#ff8f8f" />
+  <text x="26" y="220" fill="#ffffff" font-size="24" font-family="Verdana">Cacador de Bugs</text>
+</svg>

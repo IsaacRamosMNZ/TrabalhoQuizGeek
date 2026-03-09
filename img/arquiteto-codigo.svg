@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 240" role="img" aria-label="Arquiteto do Codigo">
+  <defs>
+    <linearGradient id="g3" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#1f2f25" />
+      <stop offset="100%" stop-color="#3f7a52" />
+    </linearGradient>
+  </defs>
+  <rect width="420" height="240" rx="20" fill="url(#g3)" />
+  <rect x="46" y="88" width="132" height="96" rx="10" fill="#f4e9d0" />
+  <line x1="66" y1="108" x2="158" y2="108" stroke="#2f6841" stroke-width="6" />
+  <line x1="66" y1="128" x2="148" y2="128" stroke="#2f6841" stroke-width="6" />
+  <line x1="66" y1="148" x2="132" y2="148" stroke="#2f6841" stroke-width="6" />
+  <rect x="220" y="64" width="144" height="120" rx="14" fill="#102219" stroke="#8be1a8" stroke-width="4" />
+  <path d="M250 136 L290 98 L332 136" fill="none" stroke="#8be1a8" stroke-width="6" />
+  <text x="24" y="220" fill="#ffffff" font-size="24" font-family="Verdana">Arquiteto do Codigo</text>
+</svg>
